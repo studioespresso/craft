@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 35e31213-240a-4f9e-aa1a-ea697ce1b730 # Common
+handle: testField
+instructions: ''
+name: 'Test Field'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

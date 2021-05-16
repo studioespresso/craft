@@ -1,0 +1,40 @@
+dateModified: 1620547637
+email:
+  fromEmail: jan@henckens.be
+  fromName: Craft
+  transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  commerce:
+    edition: lite
+    enabled: true
+    licenseKey: FNTQKI5ZW1PS4U743DTE62KP
+    schemaVersion: 3.3.2
+  facebook-catalog:
+    edition: standard
+    enabled: true
+    licenseKey: C08JFOIYYNSYXWCPSK169XBP
+    schemaVersion: 1.0.0
+  google-shopping-feed:
+    edition: standard
+    enabled: true
+    licenseKey: LESWY9CNNS4NGMN18O0C80YG
+    schemaVersion: 1.0.0
+  mollie-payments:
+    edition: standard
+    enabled: true
+    licenseKey: EEG0O3W7DU7RNN0IAMKNZ9XN
+    schemaVersion: 1.3.0
+    settings:
+      apiKey: test_UwaN6gGPC5HM45THrPf2mQbuEwerFa
+system:
+  edition: solo
+  live: true
+  name: Craft
+  schemaVersion: 3.6.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

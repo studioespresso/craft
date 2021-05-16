@@ -1,0 +1,20 @@
+currency: EUR
+descriptionFormat: ''
+fieldLayouts:
+  be3b91b4-f444-44bf-8dfe-7ec31d13170c:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 77a5bd9c-a021-41b2-92a8-6902b47d984b # Test Field
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: testPayment
+title: 'Test Payment'
